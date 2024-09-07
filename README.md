@@ -3,6 +3,9 @@
 ## Project Overview
 This project presents a comprehensive analysis of road accidents through an interactive dashboard. Developed to demonstrate proficiency in data analysis, data visualization, and interactive reporting, this dashboard provides deep insights into road accident statistics, including casualty severity, vehicle types involved, road conditions, and temporal trends.
 
+**[View Project Excel Sheet](https://docs.google.com/spreadsheets/d/1OGRlqzLqFVp1Jhk76-iVMN79Wnh7rTm3/edit?usp=sharing&ouid=109603255548818494650&rtpof=true&sd=true)**  
+Link: https://docs.google.com/spreadsheets/d/1OGRlqzLqFVp1Jhk76-iVMN79Wnh7rTm3/edit?usp=sharing&ouid=109603255548818494650&rtpof=true&sd=true
+
 ## Skills Demonstrated
 - Data Analysis
 - Data Visualization
@@ -93,5 +96,5 @@ This project presents a comprehensive analysis of road accidents through an inte
 ## About the Developer
 This project was developed by Sameer Bhatia, showcasing skills in data analysis, business intelligence, and dashboard creation using Microsoft Excel. It demonstrates the ability to transform raw accident data into actionable insights through effective data visualization and interpretation.
 
-For any questions, suggestions, or business inquiries, please contact:
-Sameer Bhatia | https://www.linkedin.com/in/pingtosameer/
+For any questions, suggestions, or business inquiries, please contact:  
+Sameer Bhatia | [LinkedIn](https://www.linkedin.com/in/pingtosameer/)
