@@ -16,50 +16,50 @@ Link: https://docs.google.com/spreadsheets/d/1OGRlqzLqFVp1Jhk76-iVMN79Wnh7rTm3/e
 
 ## Features and Components
 1. Casualty Overview
-   - Visualization: KPI cards with donut charts
-   - Metrics: Total Casualties, Fatal Casualties, Serious Casualties, Slight Casualties
+   - **Visualization**: KPI cards with donut charts
+   - **Metrics**: Total Casualties, Fatal Casualties, Serious Casualties, Slight Casualties
    - **Key Insights**:
      - Total of 417,883 casualties
      - 1.7% Fatal, 14.2% Serious, 84.1% Slight casualties
 
 2. Casualties by Vehicle Type
-   - Visualization: Vertical bar chart
-   - Metrics: Total casualties for each vehicle type
+   - **Visualization**: Vertical bar chart
+   - **Metrics**: Total casualties for each vehicle type
    - **Key Insights**:
      - Cars account for the majority of casualties (333,485)
      - Motorcycles have the second-highest casualty count (33,672)
 
 3. Monthly Casualty Trend
-   - Visualization: Line chart
-   - Metrics: Monthly casualty count for current year (CY) vs previous year (PY)
+   - **Visualization**: Line chart
+   - **Metrics**: Monthly casualty count for current year (CY) vs previous year (PY)
    - **Key Insights**:
      - Seasonal variations in accident rates
      - Comparison between years to identify trends or improvements
 
 4. Casualties by Road Type
-   - Visualization: Horizontal bar chart
-   - Metrics: Casualty count by road type
+   - **Visualization**: Horizontal bar chart
+   - **Metrics**: Casualty count by road type
    - **Key Insights**:
      - Single carriageway roads have the highest number of casualties (309.7k)
      - Roundabouts and slip roads have relatively fewer casualties
 
 5. Casualties by Road Surface
-   - Visualization: Stacked bar chart
-   - Metrics: Casualty count by road surface condition
+   - **Visualization**: Stacked bar chart
+   - **Metrics**: Casualty count by road surface condition
    - **Key Insights**:
      - Dry road conditions account for the majority of casualties (279,445)
      - Wet/damp conditions also contribute significantly to casualties
 
 6. Casualties by Light Condition
-   - Visualization: Donut chart
-   - Metrics: Casualty count by light condition
+   - **Visualization**: Donut chart
+   - **Metrics**: Casualty count by light condition
    - **Key Insights**:
      - Daylight accidents account for 305.0k casualties
      - Darkness-related accidents contribute to 112.9k casualties
 
 7. Urban vs Rural Analysis
    - Visualization: Donut chart
-   - Metrics: Casualty count by urban/rural area
+   - **Metrics**: Casualty count by urban/rural area
    - **Key Insights**:
      - Urban areas have a higher number of casualties (255.9k) compared to rural areas (162.0k)
 
