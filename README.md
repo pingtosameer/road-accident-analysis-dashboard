@@ -58,7 +58,7 @@ Link: https://docs.google.com/spreadsheets/d/1OGRlqzLqFVp1Jhk76-iVMN79Wnh7rTm3/e
      - Darkness-related accidents contribute to 112.9k casualties
 
 7. Urban vs Rural Analysis
-   - Visualization: Donut chart
+   - **Visualization**: Donut chart
    - **Metrics**: Casualty count by urban/rural area
    - **Key Insights**:
      - Urban areas have a higher number of casualties (255.9k) compared to rural areas (162.0k)
